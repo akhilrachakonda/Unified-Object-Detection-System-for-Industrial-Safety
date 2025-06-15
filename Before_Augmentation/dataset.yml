@@ -1,0 +1,11 @@
+Path: 'dataset'
+train: 'dataset/train/images'  # Path to the training images
+val: 'dataset/valid/images'    # Path to the validation images
+
+nc: 4  # Total number of classes across both datasets
+names:
+  0: 'Safety_vest'
+  1: 'Helmet'
+  2: 'Mobile'
+  3: 'Cigarettes'
+  
