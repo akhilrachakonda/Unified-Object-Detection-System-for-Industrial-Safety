@@ -110,8 +110,9 @@ After augmentation and fine-tuning, **YOLOv8s achieved the best overall performa
 
 Example detections showing all four object classes in real-world scenarios.
 
-![Sample Output](link_to_sample_image1)
-![Sample Output](link_to_sample_image2)
+<img src="finaltest1.png">
+<img src="finaltest2.png">
+<img src="finaltest3.png">
 
 ---
 
