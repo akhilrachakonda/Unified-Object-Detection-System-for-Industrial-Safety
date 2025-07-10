@@ -138,5 +138,22 @@ Example detections showing all four object classes in real-world scenarios.
 - Real-world deployment in industrial settings
 - Model distillation from `s` → `n` for lightweight inference
 - Improve cigarette detection with class-specific augmentation
+---
 
+## 👥 Contributors
+
+This project was developed as part of the **Deep Learning** course at **Blekinge Institute of Technology (BTH), Sweden**.
+
+- 📂 Original repository by [Sri Kashyap Dongari](https://github.com/srikashyap24/Unified-Object-Detection-System-for-Industrial-Safety)
+- 🔁 Forked and extended by [Akhil Rachakonda](https://github.com/akhilrachakonda)
+
+### 🧑‍💻 Akhil Rachakonda's Contributions:
+- Integrated advanced data augmentation using the **Albumentations** library
+- Trained and fine-tuned **YOLOv8n** and **YOLOv8s** models on a custom-labeled PPE and behavior dataset
+- Conducted model evaluation and performance comparison using precision, recall, and mAP metrics
+- Built the OpenCV-based real-time inference pipeline for video stream detection
+- Analyzed per-class detection metrics and implemented visual result interpretation
+- Documented the training methodology and results for the course submission
+
+---
 
